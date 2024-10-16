@@ -34,6 +34,8 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/82cc8a1e-b75d-467e-9f8d-2bfe4b87a617)
+
 
 ## Program 2: Adding Nodes and Displaying the List.
 <strong> Code: </strong>
@@ -81,6 +83,7 @@ int main(){
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/16528520-47ff-4756-8c44-e36a1ca31faa)
 
 
 ## Conclusion:
